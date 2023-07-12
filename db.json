@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "students": [
+    {
+      "firstname": "Rahul",
+      "lastname": "Rajput ",
+      "email": "rahulrajput02525@gmail.com",
+      "dob": "2023-05-07T18:30:00.000Z",
+      "gender": "male",
+      "stream": "CSE",
+      "schoolname": "gtb",
+      "address": "vpo siprian tehsil mukerian  distt. Hoshiarpur",
+      "id": 1
+    }
+  ]
+}
