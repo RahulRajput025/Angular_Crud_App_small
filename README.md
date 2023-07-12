@@ -1,4 +1,5 @@
 # CrudApplication
+This is a small angular crud application containing addition, deletion, editing and view of data.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
